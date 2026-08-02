@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">守护</string>
+    <string name="accessibility_description">只读取前台应用包名和滚动事件，用于识别连续刷屏；不读取或保存屏幕文字。</string>
+</resources>
